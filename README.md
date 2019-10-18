@@ -12,3 +12,4 @@ The package contains both R version and Python version.
 
 4. Once the price variations are predicted, compute the errors, predicting accuracy, profit and  sell/buy price. Visualize the result with the result_plots function.
 
+![Prediction for Bitcoin Price Variation](https://github.com/teenbress/BitBay_Package/blob/master/Prediction%20for%20Bitcoin.png)
