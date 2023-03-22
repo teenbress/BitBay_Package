@@ -1,4 +1,4 @@
-# BitBay_Package
+# Bitcoin price prediction_Package
 Predicting the price variations of bitcoin, a virtual cryptographic currency. These predictions could be used as the foundation of a bitcoin trading strategy. To make these predictions, I implemented the Bayesian Regression model to predict the future price variation of bitcoin as described in the reference paper. 
 The main parts of the package to focus on are the optimization of Sample Entropy and the prediction of price.
 The package contains both R version and Python version.
